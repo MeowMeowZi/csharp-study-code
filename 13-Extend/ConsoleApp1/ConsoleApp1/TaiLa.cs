@@ -13,7 +13,7 @@ namespace ConsoleApp1
 
         }
 
-        public Test()
+        public void Test()
         {
             base.test = "test success";
         }
