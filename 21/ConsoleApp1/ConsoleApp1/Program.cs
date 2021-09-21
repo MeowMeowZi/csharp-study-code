@@ -2,15 +2,20 @@
 
 namespace ConsoleApp1
 {
-    class Program
+    internal static class Program
     {
         static void Main(string[] args)
         {
-            Zi zi = new Zi();
+            var zi = new Zi();
             zi.Hello();
             zi.World();
             zi.B();
-            
+
+            var a = "hello";
+            Console.WriteLine(a);
+            a = "world";
+            Console.WriteLine(a);
+
             // Fu fu = new Fu();
             // fu.Hello();
         }
