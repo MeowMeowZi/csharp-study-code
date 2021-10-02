@@ -56,12 +56,13 @@
      <Compile Include="Assets\Scripts\02\MyScripts.cs" />
      <Compile Include="Assets\Scripts\03\TestPerson.cs" />
      <Compile Include="Assets\Scripts\03\Persom.cs" />
+     <Compile Include="Assets\Scripts\06\Phone.cs" />
+     <Compile Include="Assets\Scripts\04\XMLManager.cs" />
+     <Compile Include="Assets\Scripts\07\WebInfo.cs" />
+     <Compile Include="Assets\Scripts\05\Calc.cs" />
      <Compile Include="Assets\Scripts\02\Meow.cs" />
      <Compile Include="Assets\Scripts\04\MapManager.cs" />
      <Compile Include="Assets\Scripts\04\Player.cs" />
-     <Compile Include="Assets\Scripts\04\XMLManager.cs" />
-     <Compile Include="Assets\Scripts\05\Calc.cs" />
-     <Compile Include="Assets\Scripts\06\Phone.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.18f1c1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
