@@ -63,6 +63,9 @@
      <Compile Include="Assets\Scripts\02\Meow.cs" />
      <Compile Include="Assets\Scripts\04\MapManager.cs" />
      <Compile Include="Assets\Scripts\04\Player.cs" />
+     <Compile Include="Assets\Scripts\08\Master.cs" />
+     <Compile Include="Assets\Scripts\08\Dog.cs" />
+     <Compile Include="Assets\Scripts\08\Cat.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.18f1c1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
