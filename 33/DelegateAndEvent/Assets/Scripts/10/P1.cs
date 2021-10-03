@@ -9,12 +9,18 @@ public class P1 : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Q))
         {
-            BiliBili.Instance.bilibiliDelegate += Show;
+            BiliBili.Instance.bilibiliDelegate += delegate(string info)
+            {
+                Debug.Log($"P1: 更新到第{info}集");
+            };
         }
 
         if (Input.GetKeyDown(KeyCode.W))
         {
-            BiliBili.Instance.bilibiliDelegate -= Show;
+            BiliBili.Instance.bilibiliDelegate -= delegate(string info)
+            {
+                Debug.Log($"P1: 更新到第{info}集");
+            };
         }
     }
 
