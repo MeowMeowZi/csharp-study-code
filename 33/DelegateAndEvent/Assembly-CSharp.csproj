@@ -215,6 +215,7 @@
      <Compile Include="Assets\Scripts\10\P3.cs" />
      <Compile Include="Assets\Scripts\11\QQGroup.cs" />
      <Compile Include="Assets\Scripts\11\QQUser.cs" />
+     <Compile Include="Assets\Scripts\12\LambdaTest.cs" />
      <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
      <None Include="Assets\NGUI\Examples\Models\Orc\Orc Skin.shader" />
      <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />

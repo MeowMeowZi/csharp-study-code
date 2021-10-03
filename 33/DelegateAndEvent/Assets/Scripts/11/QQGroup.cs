@@ -13,7 +13,7 @@ public class QQGroup : MonoBehaviour
     public static QQGroup Instance;
     public event LogicDelegate logicDelegate;
     public event MessageDelegate messageDelegate;
-
+    
     private void Awake()
     {
         Instance = this;
@@ -25,7 +25,7 @@ public class QQGroup : MonoBehaviour
         {
             if (logicDelegate != null) logicDelegate("Meow");
         }
-
+        
         if (Input.GetKeyDown(KeyCode.D))
         {
             if (messageDelegate != null) messageDelegate("Meow", "Hello");
