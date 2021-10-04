@@ -217,6 +217,7 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UIOrthoCamera.cs" />
      <Compile Include="Assets\NGUI\Scripts\Tweening\TweenRotation.cs" />
      <Compile Include="Assets\Scripts\13\LambdaDemo.cs" />
+     <Compile Include="Assets\Scripts\14\ActionDemo.cs" />
      <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
      <None Include="Assets\NGUI\Examples\Models\Orc\Orc Skin.shader" />
      <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
