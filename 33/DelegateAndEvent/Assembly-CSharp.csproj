@@ -219,6 +219,7 @@
      <Compile Include="Assets\Scripts\13\LambdaDemo.cs" />
      <Compile Include="Assets\Scripts\14\ActionDemo.cs" />
      <Compile Include="Assets\Scripts\15\FuncDemo.cs" />
+     <Compile Include="Assets\Scripts\16\UIController.cs" />
      <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
      <None Include="Assets\NGUI\Examples\Models\Orc\Orc Skin.shader" />
      <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
